@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Jioho, a front end development 👨‍💻 <br /> working since 2017 🚀</div>  
   
- <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
+ <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
 
 * 🔭 You can see my dynamic in [my blog](https://blog.jioho.cn/) 
 * 👀 I’m currently learning three.js、midwayjs ...
@@ -15,6 +15,8 @@
 <br />
 <br />
   
+<br />
+<br />
 
 ## My Skill Set  
 
