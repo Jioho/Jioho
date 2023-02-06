@@ -2,13 +2,18 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Jioho, a front end development 👨‍💻 working since 2017 🚀</div>  
+### <div align="center">I'm Jioho, a front end development 👨‍💻 <br /> working since 2017 🚀</div>  
   
+ <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
 
 * 🔭 You can see my dynamic in [my blog](https://blog.jioho.cn/) 
 * 👀 I’m currently learning three.js、midwayjs ...
-* ⚒️ Trying to make something interesting out of nodejs/javaScript
+* ⚒️ Trying to make something interesting out of nodejs/javaScript [what to drink](https://what-to-drink.gitee.io/2023/)
 * ⚡ Fun fact: The final implementation that can be implemented with js 
+
+
+<br />
+<br />
   
 
 ## My Skill Set  
@@ -30,7 +35,7 @@
 
 ### Backend  
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
@@ -43,7 +48,7 @@
 
 ### Hobby  
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
@@ -57,17 +62,11 @@
 
 <br />
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact" align="center">
-
-</div>
-
 <br />  
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jioho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Jioho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -75,7 +74,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=Jioho&&style=flat-square" align="center" />
 </div>  
   
