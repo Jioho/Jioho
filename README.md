@@ -2,9 +2,11 @@
 <img style="position: absolute;top: 0;left: 0;height: 100%;object-fit: cover;width: 100%" src="./assets/greetings.gif" align="center" />
 </div>  
 
-### <div align="center">I'm Jioho, a front end development 👨‍💻 <br /> Is striving to become a full-stack development 🚀</div>  
-  
- <img align="right" width="40%" style="max-width: 360px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
+<br />
+<br />
+ <img align="right" width="40%" marginTop="-20px" style="margin-top:-20px;max-width: 360px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
+ 
+### <div align="left">I'm Jioho, a front end development 👨‍💻 <br /> Is striving to become a full-stack development 🚀</div>  
 
 * 🔭 You can see my dynamic in [my blog](https://blog.jioho.cn/) 
 * 👀 I’m currently learning three.js、midwayjs ...
@@ -12,9 +14,6 @@
 * ⚡ Fun fact: The final implementation that can be implemented with js 
 
 
-<br />
-<br />
-  
 <br />
 <br />
 
