@@ -1,10 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div style="width:100%;height:0px;padding-bottom: 20%;position:relative;">
+<img style="position: absolute;top: 0;left: 0;height: 100%;object-fit: cover;width: 100%" src="./assets/greetings.gif" align="center" />
 </div>  
 
-### <div align="center">I'm Jioho, a front end development 👨‍💻 <br /> working since 2017 🚀</div>  
+### <div align="center">I'm Jioho, a front end development 👨‍💻 <br /> Is striving to become a full-stack development 🚀</div>  
   
- <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
+ <img align="right" width="40%" style="max-width: 360px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jioho&layout=compact">
 
 * 🔭 You can see my dynamic in [my blog](https://blog.jioho.cn/) 
 * 👀 I’m currently learning three.js、midwayjs ...
@@ -18,11 +18,11 @@
 <br />
 <br />
 
-## My Skill Set  
+##  ⚡ My Skill Set  
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend  🌕
 
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -35,7 +35,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend  🌘
 
 <div align="left">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -48,7 +48,7 @@
 
 </td><td valign="top" width="33%">
 
-### Hobby  
+### Amateur  🌖
 
 <div align="left">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -66,7 +66,7 @@
 
 <br />  
 
-## Github Stats  
+##  ⭐ Github Stats  
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Jioho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -77,6 +77,6 @@
 <br/>  
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=Jioho&&style=flat-square" align="center" />
+👁️‍🗨️ <img src="https://komarev.com/ghpvc/?username=Jioho&&style=flat-square" align="center" />
 </div>  
   
